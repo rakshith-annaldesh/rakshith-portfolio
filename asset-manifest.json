@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rakshith-annaldesh/rakshith-portfolio/static/css/main.3d25681b.css",
+    "main.js": "/rakshith-annaldesh/rakshith-portfolio/static/js/main.f7b30eb1.js",
+    "static/media/weather-app.jpg": "/rakshith-annaldesh/rakshith-portfolio/static/media/weather-app.fd971e87957fafd0c243.jpg",
+    "static/media/coding_platform.png": "/rakshith-annaldesh/rakshith-portfolio/static/media/coding_platform.8b1e2b6333f4a9319e25.png",
+    "static/media/restapi.jpg": "/rakshith-annaldesh/rakshith-portfolio/static/media/restapi.51e7ee2415f6eb98edec.jpg",
+    "static/media/food_pred.jpg": "/rakshith-annaldesh/rakshith-portfolio/static/media/food_pred.cf06c924d899e1f40d7c.jpg",
+    "static/media/portfolio.jpg": "/rakshith-annaldesh/rakshith-portfolio/static/media/portfolio.05e908f27309c72dbb2c.jpg",
+    "static/media/ipl_visualization.jpg": "/rakshith-annaldesh/rakshith-portfolio/static/media/ipl_visualization.57f2e40645d5f6365ce2.jpg",
+    "static/media/profile.jpg": "/rakshith-annaldesh/rakshith-portfolio/static/media/profile.359556c6d41edc3f2148.jpg",
+    "index.html": "/rakshith-annaldesh/rakshith-portfolio/index.html",
+    "main.3d25681b.css.map": "/rakshith-annaldesh/rakshith-portfolio/static/css/main.3d25681b.css.map",
+    "main.f7b30eb1.js.map": "/rakshith-annaldesh/rakshith-portfolio/static/js/main.f7b30eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d25681b.css",
+    "static/js/main.f7b30eb1.js"
+  ]
+}
