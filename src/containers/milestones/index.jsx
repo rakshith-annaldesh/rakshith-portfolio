@@ -10,12 +10,13 @@ import { data } from "./utils";
 import "./styles.scss";
 import { MdWork } from "react-icons/md";
 
-const Accomplishments = () => {
+const Milestones = () => {
   return (
-    <section id="accomplishments" className="accomplishments">
+    <section id="milestones" className="milestones">
       <PageHeaderContent
-        headerText="Accomplishments"
+        headerText="Milestones"
         icon={<BsInfoCircleFill size={40} />}
+        style={{fontSize: 30}}
       />
       <div className="timeline">
         <div className="timeline__experience">
@@ -90,4 +91,4 @@ const Accomplishments = () => {
     </section>
   );
 };
-export default Accomplishments;
+export default Milestones;

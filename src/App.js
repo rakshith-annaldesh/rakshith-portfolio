@@ -4,7 +4,7 @@ import Particles from "react-tsparticles";
 import { loadSlim } from "tsparticles-slim";
 import Home from "./containers/home";
 import About from "./containers/about";
-import Accomplishments from "./containers/accomplishments";
+import Milestones from "./containers/milestones";
 import Skills from "./containers/skills";
 import Projects from "./containers/projects";
 import Contact from "./containers/contact";
@@ -36,7 +36,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/accomplishments" element={<Accomplishments />} />
+          <Route path="/milestones" element={<Milestones />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />

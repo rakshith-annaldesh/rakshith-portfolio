@@ -17,8 +17,8 @@ const data = [
     to: "/skills",
   },
   {
-    label: "ACCOMPLISHMENTS",
-    to: "/accomplishments",
+    label: "MILESTONES",
+    to: "/milestones",
   },
   {
     label: "PROJECTS",
